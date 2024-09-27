@@ -1,0 +1,3 @@
+[submodule "submodule-insider"]
+	path = submodule-insider
+	url = https://github.com/vasmohi/submodule-insider.git
